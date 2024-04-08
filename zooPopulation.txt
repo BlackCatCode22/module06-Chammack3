@@ -1,0 +1,19 @@
+Zoo Population Report:
+
+Park Habitat:
+Name: Roger, Age: 8, Sex: male, Species: hyena, Color: grey, Weight: 104.0 pounds, Birth Date: 2016-12-12, Unique ID: HYE_1831932724
+Name: Rick, Age: 9, Sex: male, Species: hyena, Color: brown, Weight: 115.0 pounds, Birth Date: 2015-08-24, Unique ID: HYE_1607521710
+Name: Harry, Age: 8, Sex: male, Species: hyena, Color: black, Weight: 108.0 pounds, Birth Date: 2016-03-25, Unique ID: HYE_764977973
+Name: Suzy, Age: 10, Sex: female, Species: hyena, Color: black and tan striped color, Weight: 86.0 pounds, Birth Date: 2014-01-03, Unique ID: HYE_381259350
+Name: Henry, Age: 5, Sex: male, Species: lion, Color: tan, Weight: 204.0 pounds, Birth Date: 2019-07-21, Unique ID: LIO_2129789493
+Name: Hoot, Age: 6, Sex: male, Species: lion, Color: dark tan, Weight: 246.0 pounds, Birth Date: 2018-06-14, Unique ID: LIO_668386784
+Name: Bethany, Age: 18, Sex: female, Species: lion, Color: golden, Weight: 320.0 pounds, Birth Date: 2006-12-04, Unique ID: LIO_1329552164
+Name: Barnes, Age: 7, Sex: male, Species: lion, Color: tan and brown, Weight: 110.0 pounds, Birth Date: 2017-08-22, Unique ID: LIO_363771819
+Name: Todd, Age: 5, Sex: male, Species: tiger, Color: gold and tan stripes, Weight: 275.0 pounds, Birth Date: 2019-08-12, Unique ID: TIG_2065951873
+Name: Mark, Age: 9, Sex: male, Species: tiger, Color: black stripes, Weight: 194.0 pounds, Birth Date: 2015-01-15, Unique ID: TIG_1791741888
+Name:  Amber, Age: 10, Sex: female, Species: tiger, Color: gold and tan, Weight: 123.0 pounds, Birth Date: 2014-07-26, Unique ID: TIG_1595428806
+Name: Juliet, Age: 14, Sex: female, Species: tiger, Color: black stripes, Weight: 253.0 pounds, Birth Date: 2010-12-12, Unique ID: TIG_1072408673
+Name: Becky, Age: 13, Sex: female, Species: bear, Color: brown , Weight: 123.0 pounds, Birth Date: 2011-02-07, Unique ID: BEA_1531448569
+Name: Jimi, Age: 12, Sex: male, Species: bear, Color: black, Weight: 235.0 pounds, Birth Date: 2012-04-17, Unique ID: BEA_1867083167
+Name: Eric, Age: 5, Sex: male, Species: bear, Color: black, Weight: 111.0 pounds, Birth Date: 2019-12-04, Unique ID: BEA_1915910607
+Name: Bubbles, Age: 4, Sex: female, Species: bear, Color: brown, Weight: 65.0 pounds, Birth Date: 2020-01-25, Unique ID: BEA_284720968
